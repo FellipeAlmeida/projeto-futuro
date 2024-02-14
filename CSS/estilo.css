@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+}
+
+.oi {
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo {
+    display: flex;
+    color: red;
+    justify-content: center;
+}
+
